@@ -10,4 +10,4 @@ Light control via raspberry pi
 
 and add this line in the bottom of the file
 
-`@reboot sh /home/pi/launcher.sh`
+`@reboot sh /home/pi/light/launcher.sh`
